@@ -199,14 +199,22 @@ Notre projet consiste en un site pour financer un projet, qui nous permet d'appr
 
 # Équipe 12
 
-Description du projet
+Description du projet : CNV
+
+Notre projet consiste en la mise en place d'un site web et d'une application mobile permettant de découvrir la Communication Non Violente ainsi que de s'entrainer à celle ci sans l'apport d'une personne exterieur.
 
 ## Équipe
 
-* 
+* WORME Benjamin
+* TUROSTOWSKI Antoine
+* BON Antoine
+* MAS Valentin
+* ROHAERT Florian
+* LEWANDOSKI Baptiste
+* SAURO Romain
 
 ## Resources
 
-* git serveur :
-* git android :
+* git serveur : https://git-iut.univ-lille1.fr/sauror/Agile_CNV.git
+* git android : https://git-iut.univ-lille1.fr/sauror/CNV_MOBILE.git
 
